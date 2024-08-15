@@ -1,4 +1,4 @@
-# Hi! I’m K Srirama Srikar✨!!
+# Hi! I’m Zeeshan Mohammed Rangrej✨!!
 <h3> A sophomore at Indian Institute of Technology, Palakkad pursuing a Bachelor's degree in Computer Science and Engineering...</h3>
 <!-- <div><p> <img width="150" align='left' src="Octocat/octocat-1720873444543.png"></p> -->
 <br>
