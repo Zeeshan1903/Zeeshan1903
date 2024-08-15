@@ -58,8 +58,6 @@ I'm always eager to learn and embrace new challenges in the tech world🚀...<br
 
 
 <br>
-<br><br>
-<h3>You can reach me at:</h3>
 
 
 <!---
