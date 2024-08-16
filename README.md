@@ -13,7 +13,7 @@ I'm always eager to learn and embrace new challenges in the tech world🚀...<br
 
 ### Stats:
 
-![](https://komarev.com/ghpvc/?username=Zeeshan1903&color=blueviolt&style=plastic&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Zeeshan1903&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
 <br>
 
 <!---<p align="left>
@@ -35,11 +35,6 @@ I'm always eager to learn and embrace new challenges in the tech world🚀...<br
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Zeeshan1903&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
 </p>
-
-<!--- <p align="left"> 
-<a href="https://leetcode.com/k_srirama_srikar/"><img width="48%" src="https://leetcode.card.workers.dev/k_srirama_srikar?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
-</p> --->
-
 
 
 
