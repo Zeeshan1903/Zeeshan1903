@@ -23,7 +23,7 @@ I'm always eager to learn and embrace new challenges in the tech world🚀...<br
     
 </p>--->
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Zeeshan1903&theme=darkhub&title=-Issues,-Reviews" alt="srikar" /></p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Zeeshan1903&theme=darkhub&title=-Issues,-Reviews" alt="Zeeshan" /></p>
 
 
 <p align="left">
