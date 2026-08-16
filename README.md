@@ -9,29 +9,42 @@
 
 ```yaml
 student:    IIT Palakkad, CS branch
-interests:  web development, systems programming
-stack:      React, Next.js, TypeScript, C++
-currently:  building a SAT solver that runs entirely at
-            compile time, using C++ template metaprogramming
+currently:  learning React and Next.js
+interests:  web development, systems programming, compilers/runtimes
 ```
+
+<br>
+
+### Projects
+
+**Feed. — Social Media Platform**
+`PostgreSQL` `SvelteKit` `TypeScript`
+Auth, profiles, media posts, reactions, follows, and hashtag discovery, built on a normalized PostgreSQL schema with PL/pgSQL functions, triggers, and role-based access control.
+
+**druntime — Bytecode VM + Runtime**
+`C++17` `Make`
+A stack-based bytecode VM with control flow, calls, and dynamic dispatch, built with a custom instruction set, tagged values, and a single-inheritance object model.
+
+**Compile-Time SAT Solver**
+`C++` `Template Metaprogramming`
+A SAT solver that runs entirely at compile time, implemented purely through C++ templates.
 
 <br>
 
 ### Stats
 
-![](https://komarev.com/ghpvc/?username=Zeeshan1903&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
-
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zeeshan1903&show_icons=true&theme=github_dark&border_radius=30" alt="Zeeshan's GitHub stats" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zeeshan1903/Zeeshan1903/output/profile-night-rainbow.svg" width="100%" />
 </p>
 
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Zeeshan1903&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
-</p>
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=Zeeshan1903&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan1903&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" /></td>
+</tr>
+</table>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan1903&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30" alt="Top Languages Used" />
-</p>
+![](https://komarev.com/ghpvc/?username=Zeeshan1903&color=1f6feb&style=flat-square&label=PROFILE+VIEWS)
 
 <br>
 
