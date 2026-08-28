@@ -30,23 +30,41 @@ A SAT solver that runs entirely at compile time, implemented purely through C++ 
 <br>
 <br>
 
-### Stats
+
+### Stats:
 
 ![](https://komarev.com/ghpvc/?username=Zeeshan1903&color=blueviolet&style=plastic&label=PROFILE+VIEWS)
+<br>
+
+<p align="left>
+
+
+![Zeeshan1903 github-trophies](https://stats.dooboo.io/api/github-trophies?login=Zeeshan1903)
+
+    
+</p>
+
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Zeeshan1903&theme=darkhub&title=-Issues,-Reviews" alt="Zeeshan1903" /></p>
+
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zeeshan1903&show_icons=true&theme=github_dark&border_radius=30" alt="Zeeshan's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zeeshan1903&show_icons=true&theme=github_dark&border_radius=30" alt="Zeeshan1903's GitHub stats" />
 </p>
+
+
 
 <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Zeeshan1903&theme=highcontrast&border_radius=30" alt="GitHub Streak" />
 </p>
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan1903&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30" alt="Top Languages Used" />
-</p>
 
+
+
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeeshan1903&size_weight=0.5&count_weight=0.5&theme=github_dark&langs_count=10&layout=donut&border_radius=30&hide=G-code" alt="Top Languages Used" />
+</p>
 <br>
+
 
 ### Skills
 
